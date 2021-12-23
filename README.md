@@ -11,6 +11,8 @@ Nunca pergunte coisas do tipo:
 
 Essas de cima são quando não são enviados os erros e as prints dos códigos.
 
+O certo e mandar a sua dúvida com a print do erro e com o código pronto para poderem ajudar sobre o seu problema.
+
 # Ortografia e Gramática.
 
 Use sempre boas palavras e boas explicações sobre o seu problema com seu código do seu projeto. Sem a ortografia e gramática, ficará tudo confusão e a pessoa que quer resolver não terá como por causa que ele não entende seu tipo de dúvida e problemas do seu script.
