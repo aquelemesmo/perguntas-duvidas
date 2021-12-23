@@ -1,3 +1,5 @@
+# Como fazer uma pergunta ou dúvida enquanto está com problema em seu código
+
 # Antes de começar tudo.
 
 Não seja um neandertal que vai fazer perguntas muito nada haver, mas aqui eu vou explicar como você deve fazer sua pergunta bem simples para a comunidade entender melhor sua pergunta ou dúvida
